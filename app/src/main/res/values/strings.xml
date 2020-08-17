@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hotel Booking</string>
+    <string name="B1">Vadali Guest House</string>
+    <string name="B2">Room Reservation</string>
+    <string name="B3">Customer name</string>
+    <string name="B4">Telephone no</string>
+    <string name="B5">Email</string>
+    <string name="B6">Check-in date</string>
+    <string name="B7">Check-out date</string>
+    <string name="B8">No of rooms</string>
+    <string name="B9">Total cost</string>
+    <string name="B10">Confirm Booking...</string>
+    <string name="B11">Customer Booking Details</string>
+    <string name="B12">Admin</string>
+    <string name="B14">ADD DETAILS...</string>
+
+</resources>
