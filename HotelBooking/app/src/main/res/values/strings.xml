@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hotel Booking</string>
+    <string name="Msg1">Vadali Guest House</string>
+    <string name="msg2">Our Rooms</string>
+    <string name="msg3">Superior Room</string>
+    <string name="msg5">The Superior Rooms are Complete with modern technology, luxuary bath amenties and so much more to ma ke your stay enjoyable.</string>
+    <string name="msg6">Beds - Queen size Bed</string>
+    <string name="ms7">ExtraBed- One bed (Request)</string>
+    <string name="msg8">Location - First floor</string>
+    <string name="msg9">Bathroom - Fully tiled bathroom with  bathhub ,shower and hairdryer</string>
+    <string name="msg10">Cost - 12,000/-</string>
+    <string name="ms11">Book</string>
+    <string name="a1">Deluxe Room</string>
+    <string name="a2">Every Deluxe Room is complete with colours and shades of Kandyan architecture that adorn its walls.</string>
+    <string name="a3">Cost - 10,000/-</string>
+    <string name="AD1">ADMIN</string>
+    <string name="AD2">Room Details</string>
+    <string name="r1">RoomType</string>
+    <string name="V1">Welcome To Vadali Guest House</string>
+</resources>
